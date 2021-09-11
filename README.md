@@ -1,12 +1,12 @@
 # Luther
 
-Luther é um bot feito para diversão e facilidade de usuario com seus comando 
+Luther is a bot made for fun and user-friendliness with its commands
 
-ele foi progamado em js
+it was programmed in js
 
 
-### 🌍 "O CODIGO FOI FEITO COMO UMA ESTRUTURTA DE COMANDOS" 🧠
+### 🌍 "CODE WAS MADE AS A COMMAND STRUCTURE" 🧠
 
-- 📍 Projeto desenvolvido 100% por mim
-- 💻 **Codigo segue aberto a mudanças**
-- 💁🏽 **Contato para mudanças via e-mail**
+- 📍 Project developed 100% by me
+- 💻 **Code remains open to change**
+- 💁🏽 **Contact for changes via email**
